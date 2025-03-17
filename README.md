@@ -9,12 +9,11 @@
 
 ### My Work
 
-I'm a passionate software engineer with a focus on full-stack web development. Currently, I work at Gearbox, where I build internal tools to moderate online services for game titles at scale. My expertise lies in Go and Angular, along with their associated toolchains. I have experience deploying and maintaining applications at scale in AWS.
+I'm a passionate software engineer with a focus on full-stack web development. Currently, I work at Gearbox, where I build online services for game titles at scale. My expertise lies in Go and Angular, along with their associated toolchains. I have experience deploying and maintaining applications at scale in AWS.
 
 ### My Hobbies
 
-I run a programming blog and a youtube channel known as *lofi***code**. There I focus on teaching others how to code in byte-size pieces.
-
+I run a programming blog and a youtube channel known as *lofi***code**. There I focus on teaching others how to code in byte-size pieces. I'm also a woodworker and photographer.
 
 ## GitHub Contributions
 
@@ -26,6 +25,8 @@ While my day-to-day work primarily resides in [private repositories on GitLab](h
 
 Here are some noteworthy projects I've been working on:
 
+- [Planning Poker Web App](https://github.com/alchemical-cantrips/planning-poker): A full stack planning poker app that uses an Angular frontend, and an AWS API Gateway + Node Lambdas for the backend, and a DynamoDB for persistence.
+- [loficode blog](https://github.com/codypotter/lofi-code): My blog, built with Angular CLI, AWS API Gateway, AWS Lambda, Google Firebase, and FireCMS.
 - [XCode Coverage Utility](https://github.com/codypotter/coverage-dashboard): A code coverage analyzer for your iOS project.
 - [Itty Bitty Social](https://github.com/codypotter/itty-bitty-social): A very minimal backend example of how to set up your social networking backend in Go. This was used as an example in [this blog post](https://loficode.com/posts/go-layered-architecture).
 - [Itty Bitty IRC](https://github.com/codypotter/itty-bitty-irc): This was a student project written in node.js to implment a minimal client and server application based on the IRC protocol.
@@ -43,7 +44,7 @@ Here are some noteworthy projects I've been working on:
 
 | Company       | Location       | Role                          | Duration                  | Responsibilities |
 | ------------- | -------------- | ----------------------------- | ------------------------- | ---------------- |
-| Gearbox       | Frisco, TX (Remote) | Full Stack Software Engineer | January 2022 - Present    | Design, develop and maintain a highly scaled gift card redemption platform, a suite of moderation tools, as well as online game services at scale. Use technologies and languages such as Go, NodeJS, Angular, Rails, JavaScript, HTML, CSS, MySQL, Docker and more. Develop and troubleshoot with AWS services like RDS, S3, ECS, Cloudfront, Secrets Manager, AppConfig, API Gateway, Lambda, and more. |
+| Gearbox       | Frisco, TX (Remote) | Senior Full Stack Software Engineer | January 2022 - Present    | Design, develop and maintain a highly scaled gift card redemption platform, a suite of moderation tools, as well as online game services at scale. Use technologies and languages such as Go, NodeJS, Angular, Rails, JavaScript, HTML, CSS, MySQL, Docker and more. Develop and troubleshoot with AWS services like RDS, DyanmoDB, Elasticache/Redis, S3, ECS, Cloudfront, Secrets Manager, AppConfig, API Gateway, Lambda, and more. |
 | Self Employed | Portland, OR (Remote)  | Full Stack Web Bootcamp Tutor | October 2021 - February 2022 | Full time tutor for a University of Oregon Full Stack Web Development Bootcamp. Offer one on one in-depth coverage of concepts like Data Structures and Algorithms, Node.js and the MERN stack, Agile Methodologies, QA (unit testing), MySQL and MongoDB, Git/GitHub, JavaScript, jQuery, Bootstrap, JSON, AJAX, React.js, Python, Java, AWS, and much more. |
 | QualityLogic  | Portland, OR (Remote)  | iOS Automation Engineer       | June 2021 - January 2022       | General maintenance of the UI test suite for MightyNetworks platform. Work with developers to assist them in writing testable code, and continuously integrate tests to prevent regressions during the startup's rapid feature development. |
 
